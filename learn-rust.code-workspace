@@ -5,7 +5,40 @@
       "path": "."
     },
     {
+      "name": "3.2-data-type",
+      "path": "the-rust-programming-language/3.2-data-type"
+    },
+    {
+      "name": "3.3-functions",
+      "path": "the-rust-programming-language/3.3-functions"
+    },
+    {
+      "name": "3.5-branches",
+      "path": "the-rust-programming-language/3.5-branches"
+    },
+    {
+      "name": "3.5-loops",
+      "path": "the-rust-programming-language/3.5-loops"
+    },
+    {
+      "name": "3.6-fibonacci",
+      "path": "the-rust-programming-language/3.6-fibonacci"
+    },
+    {
+      "name": "3.6-temperature-converter",
+      "path": "the-rust-programming-language/3.6-temperature-converter"
+    },
+    {
+      "name": "4.3-slice",
+      "path": "the-rust-programming-language/4.3-slice"
+    },
+    {
+      "name": "5.1-struct",
       "path": "the-rust-programming-language/5.1-struct"
+    },
+    {
+      "name": "5.2-rectangles",
+      "path": "the-rust-programming-language/5.2-rectangles"
     }
   ]
 }

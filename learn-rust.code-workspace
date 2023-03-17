@@ -39,6 +39,9 @@
     {
       "name": "5.2-rectangles",
       "path": "the-rust-programming-language/5.2-rectangles"
+    },
+    {
+      "path": "the-rust-programming-language/6.1-enums"
     }
   ]
 }

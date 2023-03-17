@@ -42,6 +42,9 @@
     },
     {
       "path": "the-rust-programming-language/6.1-enums"
+    },
+    {
+      "path": "the-rust-programming-language/6.2-match"
     }
   ]
 }

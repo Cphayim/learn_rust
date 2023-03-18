@@ -45,6 +45,9 @@
     },
     {
       "path": "the-rust-programming-language/6.2-match"
+    },
+    {
+      "path": "the-rust-programming-language/7.2-backyard"
     }
   ]
 }

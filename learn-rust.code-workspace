@@ -54,6 +54,9 @@
     },
     {
       "path": "the-rust-programming-language/8.1-vector"
+    },
+    {
+      "path": "the-rust-programming-language/9.2-result"
     }
   ]
 }

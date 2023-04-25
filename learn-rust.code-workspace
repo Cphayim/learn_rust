@@ -57,6 +57,9 @@
     },
     {
       "path": "the-rust-programming-language/9.2-result"
+    },
+    {
+      "path": "the-rust-programming-language/10.1-generic"
     }
   ]
 }

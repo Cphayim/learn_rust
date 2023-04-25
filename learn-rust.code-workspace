@@ -60,6 +60,9 @@
     },
     {
       "path": "the-rust-programming-language/10.1-generic"
+    },
+    {
+      "path": "the-rust-programming-language/10.2-trait"
     }
   ]
 }

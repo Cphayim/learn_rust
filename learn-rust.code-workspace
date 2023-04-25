@@ -63,6 +63,9 @@
     },
     {
       "path": "the-rust-programming-language/10.2-trait"
+    },
+    {
+      "path": "the-rust-programming-language/10.3-lifecycle"
     }
   ]
 }

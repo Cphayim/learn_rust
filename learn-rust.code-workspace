@@ -72,6 +72,9 @@
     },
     {
       "path": "the-rust-programming-language/12-minigrep"
+    },
+    {
+      "path": "the-rust-programming-language/13.1-closure"
     }
   ]
 }

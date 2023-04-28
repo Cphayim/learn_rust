@@ -75,6 +75,9 @@
     },
     {
       "path": "the-rust-programming-language/13.1-closure"
+    },
+    {
+      "path": "the-rust-programming-language/13.2-iterators"
     }
   ]
 }

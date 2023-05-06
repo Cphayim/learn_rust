@@ -1,0 +1,7 @@
+/* 写一段CSS代码，蓝色渐变背景，圆角大小8px，高度40px，宽度120px */
+.box {
+  width: 120px;
+  height: 40px;
+  background: #00f;
+  border-radius: 8px;
+}

@@ -84,6 +84,9 @@
     },
     {
       "path": "the-rust-programming-language/15.2-deref-trait"
+    },
+    {
+      "path": "the-rust-programming-language/15.3-drop-trait"
     }
   ]
 }

@@ -81,6 +81,9 @@
     },
     {
       "path": "the-rust-programming-language/15.1-box"
+    },
+    {
+      "path": "the-rust-programming-language/15.2-deref-trait"
     }
   ]
 }

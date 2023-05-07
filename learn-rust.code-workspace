@@ -87,6 +87,9 @@
     },
     {
       "path": "the-rust-programming-language/15.3-drop-trait"
+    },
+    {
+      "path": "the-rust-programming-language/15.4-rc-demo"
     }
   ]
 }

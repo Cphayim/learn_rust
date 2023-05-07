@@ -90,6 +90,12 @@
     },
     {
       "path": "the-rust-programming-language/15.4-rc"
+    },
+    {
+      "path": "the-rust-programming-language/15.5-refcell"
+    },
+    {
+      "path": "the-rust-programming-language/15.6-weakref"
     }
   ]
 }

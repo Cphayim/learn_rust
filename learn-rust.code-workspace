@@ -7,6 +7,10 @@
     {
       "name": "03-scrape_url",
       "path": "geektime-rust/03-scrape_url"
+    },
+    {
+      "name": "04-httpie",
+      "path": "geektime-rust/04-httpie"
     }
   ]
 }

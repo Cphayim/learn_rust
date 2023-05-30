@@ -11,6 +11,10 @@
     {
       "name": "04-httpie",
       "path": "geektime-rust/04-httpie"
+    },
+    {
+      "name": "05-thumbor",
+      "path": "geektime-rust/05-thumbor"
     }
   ]
 }

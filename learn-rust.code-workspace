@@ -15,6 +15,10 @@
     {
       "name": "05-thumbor",
       "path": "geektime-rust/05-thumbor"
+    },
+    {
+      "name": "06-queryer",
+      "path": "geektime-rust/06-queryer"
     }
   ]
 }

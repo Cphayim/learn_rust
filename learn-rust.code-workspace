@@ -19,6 +19,10 @@
     {
       "name": "06-queryer",
       "path": "geektime-rust/06-queryer"
+    },
+    {
+      "name": "07-ownership",
+      "path": "geektime-rust/07-ownership"
     }
   ]
 }

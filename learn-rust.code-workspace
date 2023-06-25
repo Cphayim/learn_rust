@@ -23,6 +23,10 @@
     {
       "name": "07-ownership",
       "path": "geektime-rust/07-ownership"
+    },
+    {
+      "name": "10-lifecycle",
+      "path": "geektime-rust/10-lifecycle"
     }
   ]
 }
